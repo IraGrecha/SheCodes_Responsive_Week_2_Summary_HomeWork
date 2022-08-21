@@ -1,0 +1,2 @@
+# SheCodes_Responsive_Week_2_Summary_HomeWork
+Created with CodeSandbox
